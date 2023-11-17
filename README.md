@@ -1,2 +1,3 @@
 # Computerthathasyettobenamed
-Capstone stuff
+## Goal: 16 Bit computer 
+Capstone stuff...
